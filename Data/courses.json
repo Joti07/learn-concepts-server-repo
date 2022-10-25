@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "02",
+        "name": "Deep Learning"
+    },
+    {
+        "id": "03",
+        "name": "Competitive Programming"
+    },
+    {
+        "id": "04",
+        "name": "Graphics Design"
+    },
+    {
+        "id": "05",
+        "name": "Data Structure and Algorithm"
+    },
+    {
+        "id": "06",
+        "name": "Digital Image Processing"
+    }
+]
