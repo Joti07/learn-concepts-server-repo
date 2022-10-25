@@ -1,26 +1,49 @@
 [
     {
         "id": "01",
-        "name": "Machine Learning"
+        "name": "Machine Learning",
+        "rating": "3.2",
+        "level": "Beginner",
+        "Intro": "#BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng",
+        "details": "The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field. This 3-course Specialization is an updated version of Andrew’s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012. It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.) By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start."
     },
     {
         "id": "02",
-        "name": "Deep Learning"
+        "name": "Deep Learning",
+        "rating": "4.2",
+        "level": "Intermediate",
+        "details": "Become a Machine Learning expert. Master the fundamentals of deep learning and break into AI. Recently updated with cutting-edge techniques!"
     },
     {
         "id": "03",
-        "name": "Competitive Programming"
+        "name": "Competitive Programming",
+        "rating": "4.2",
+        "level": "Intermediate",
+        "Intro": "Master competitive coding techniques - maths, number theory, dynamic programming, advanced data structures & algorithms",
+        "details": "Equip yourself with essential programming techniques required for ACM-ICPC, Google CodeJam, Kickstart, Facebook HackerCup & more. Welcome to Competitive Programming Essentials - the ultimate specialisation on Algorithms for Competitive Coders! The online Competitive Programming Essentials by Coding Minutes is a highly exhaustive & rigorous course on Competitive Programming. The 50+ hours course covers the breadth & depth of algorithmic programming starting from a recap of common data structures, and diving deep into essential and advanced algorithms."
     },
     {
         "id": "04",
-        "name": "Graphics Design"
+        "name": "Graphics Design",
+        "rating": "4.2",
+        "level": "Intermediate",
+        "Intro": "Make Compelling Design. Learn and apply the principles of graphic design towards a comprehensive branding project.",
+        "details": "Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio.The goal of this specialization is to equip learners with a set of transferable formal and conceptual tools for “making and communicating” in the field of graphic design. This core skill set will equip learners for formal studies in graphic design, and a starting point for further work in interface design, motion graphics, and editorial design."
     },
     {
         "id": "05",
-        "name": "Data Structure and Algorithm"
+        "name": "Data Structure and Algorithm",
+        "rating": "4.2",
+        "level": "Intermediate",
+        "Intro": "Master Algorithmic Programming Techniques. Advance your Software Engineering or Data Science Career by Learning Algorithms through Programming and Puzzle Solving. Ace coding interviews by implementing each algorithmic challenge in this Specialization. Apply the newly-learned algorithmic techniques to real-life problems, such as analyzing a huge social network or sequencing a genome of a deadly pathogen.",
+        "details": "Computer science legend Donald Knuth once said “I don’t understand things unless I try to program them.” We also believe that the best way to learn an algorithm is to program it. However, many excellent books and online courses on algorithms, that excel in introducing algorithmic ideas, have not yet succeeded in teaching you how to implement algorithms, the crucial computer science skill that you have to master at your next job interview. We tried to fill this gap by forming a diverse team of instructors that includes world-leading experts in theoretical and applied algorithms at UCSD (Daniel Kane, Alexander Kulikov, and Pavel Pevzner) and a former software engineer at Google (Neil Rhodes). This unique combination of skills makes this Specialization different from other excellent MOOCs on algorithms that are all developed by theoretical computer scientists. While these MOOCs focus on theory, our Specialization is a mix of algorithmic theory/practice/applications with software engineering. You will learn algorithms by implementing nearly 100 coding problems in a programming language of your choice. To the best of knowledge, no other online course in Algorithms comes close to offering you a wealth of programming challenges (and puzzles!) that you may face at your next job interview. We invested over 3000 hours into designing our challenges as an alternative to multiple choice questions that you usually find in MOOCs. "
     },
     {
         "id": "06",
-        "name": "Digital Image Processing"
+        "name": "Digital Marketing",
+        "rating": "4.2",
+        "level": "Intermediate",
+        "Intro": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!",
+        "details": "Master Digital Marketing Strategy, Social Media Marketing, SEO, YouTube, Email, Facebook Marketing, Analytics & More!"
     }
 ]
