@@ -11,11 +11,13 @@ app.get('/', (req, res) => {
 });
 app.get('/courses', (req, res) => {
     res.send(courses)
+
 });
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const selectedCourse = courses.find(n => n.id === id);
     res.send(selectedCourse);
+    console.log(selectedCourse);
 })
 app.listen(port, () => {
     console.log('Course Server running on port', port);
